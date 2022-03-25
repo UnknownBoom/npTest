@@ -102,4 +102,6 @@ def p(a):
 # p(arr)
 
 arr = np.arange(24).reshape(2, 3, 4)
-p(arr)
+# p(arr)
+
+p(arr[1])
